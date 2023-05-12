@@ -1,4 +1,4 @@
-### Hi there 👋 i am Tabassum Raza
+### Hi there 👋 I am Tabassum Raza
 <h3 align="center">A website developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabassumraza&label=Profile%20views&color=0e75b6&style=flat" alt="tabassumraza" /> </p>

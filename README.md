@@ -36,7 +36,7 @@
 
 <p><img align="center" width"100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tabassumraza&" alt="tabassumraza" /></p>
 
-<p>&nbsp;<img align="center" width"100%" src="https://github-readme-stats.vercel.app/api?username=tabassumraza&show_icons=true&locale=en" alt="tabassumraza" /></p>
+<p>&nbsp;<img align="center" width"100%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=tabassumraza&show_icons=true&locale=en" alt="tabassumraza" /></p>
 
 
 <!--

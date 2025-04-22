@@ -36,8 +36,9 @@
 
 <p><img align="center" width"100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tabassumraza&" alt="tabassumraza" /></p>
 
+<!-- 
 <p>&nbsp;<img align="center" width"100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tabassumraza&show_icons=true&locale=en" alt="tabassumraza" /></p>
-
+-->
 
 <!--
 **tabassumraza/tabassumraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
